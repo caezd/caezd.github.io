@@ -1,0 +1,4 @@
+[submodule "hebe"]
+	path = hebe
+	url = https://github.com/caezd/hebe.git
+	branch = main
